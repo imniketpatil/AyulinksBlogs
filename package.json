@@ -1,0 +1,15 @@
+{
+  "name": "blogayulinks",
+  "version": "1.0.0",
+  "description": "Creating a backend for Aylinks Blog Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ayulinks",
+    "Blogs"
+  ],
+  "author": "Niket",
+  "license": "ISC"
+}
